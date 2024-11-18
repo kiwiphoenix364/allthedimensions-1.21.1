@@ -1,0 +1,1437 @@
+
+command_history.txt
+crash-reports/crash-2024-11-18_14.42.07-fml.txt
+crash-reports/crash-2024-11-18_14.53.28-client.txt
+crash-reports/crash-2024-11-18_14.56.37-fml.txt
+crash-reports/crash-2024-11-18_14.57.52-fml.txt
+crash-reports/crash-2024-11-18_15.00.47-client.txt
+crash-reports/crash-2024-11-18_15.38.40-fml.txt
+crash-reports/crash-2024-11-18_15.40.58-fml.txt
+crash-reports/crash-2024-11-18_15.42.13-fml.txt
+crash-reports/crash-2024-11-18_16.13.42-client.txt
+data/fabricDefaultResourcePacks.dat
+defaultconfigs/ftblibrary/ftblibrary-client.snbt
+downloads/log.json
+fabricloader.log
+instance.json
+journeymap/config/6.0/journeymap.core.config
+journeymap/config/6.0/journeymap.fullmap.config
+journeymap/config/6.0/journeymap.minimap.config
+journeymap/config/6.0/journeymap.minimap2.config
+journeymap/config/6.0/journeymap.rendering.config
+journeymap/config/6.0/journeymap.topo.config
+journeymap/config/6.0/journeymap.waypoint.config
+journeymap/config/6.0/journeymap.webmap.config
+journeymap/data/sp/New World (1)/overworld/biome/-1,0.png
+journeymap/data/sp/New World (1)/overworld/biome/-1,1.png
+journeymap/data/sp/New World (1)/overworld/biome/-1,2.png
+journeymap/data/sp/New World (1)/overworld/biome/-1,3.png
+journeymap/data/sp/New World (1)/overworld/biome/0,0.png
+journeymap/data/sp/New World (1)/overworld/biome/0,1.png
+journeymap/data/sp/New World (1)/overworld/cache/r.-1.0.mca
+journeymap/data/sp/New World (1)/overworld/cache/r.-1.1.mca
+journeymap/data/sp/New World (1)/overworld/cache/r.-1.2.mca
+journeymap/data/sp/New World (1)/overworld/cache/r.-1.3.mca
+journeymap/data/sp/New World (1)/overworld/cache/r.0.0.mca
+journeymap/data/sp/New World (1)/overworld/cache/r.0.1.mca
+journeymap/data/sp/New World (1)/overworld/day/-1,0.png
+journeymap/data/sp/New World (1)/overworld/day/-1,1.png
+journeymap/data/sp/New World (1)/overworld/day/-1,2.png
+journeymap/data/sp/New World (1)/overworld/day/-1,3.png
+journeymap/data/sp/New World (1)/overworld/day/0,0.png
+journeymap/data/sp/New World (1)/overworld/day/0,1.png
+journeymap/data/sp/New World (1)/overworld/night/-1,0.png
+journeymap/data/sp/New World (1)/overworld/night/-1,1.png
+journeymap/data/sp/New World (1)/overworld/night/-1,2.png
+journeymap/data/sp/New World (1)/overworld/night/-1,3.png
+journeymap/data/sp/New World (1)/overworld/night/0,0.png
+journeymap/data/sp/New World (1)/overworld/night/0,1.png
+journeymap/data/sp/New World (1)/overworld/topo/-1,0.png
+journeymap/data/sp/New World (1)/overworld/topo/-1,1.png
+journeymap/data/sp/New World (1)/overworld/topo/-1,2.png
+journeymap/data/sp/New World (1)/overworld/topo/-1,3.png
+journeymap/data/sp/New World (1)/overworld/topo/0,0.png
+journeymap/data/sp/New World (1)/overworld/topo/0,1.png
+journeymap/data/sp/New World (1)/overworld/topo/cache/r.-1.0.mca
+journeymap/data/sp/New World (1)/overworld/topo/cache/r.-1.1.mca
+journeymap/data/sp/New World (1)/overworld/topo/cache/r.-1.2.mca
+journeymap/data/sp/New World (1)/overworld/topo/cache/r.-1.3.mca
+journeymap/data/sp/New World (1)/overworld/topo/cache/r.0.0.mca
+journeymap/data/sp/New World (1)/overworld/topo/cache/r.0.1.mca
+journeymap/data/sp/New World (1)/waypoints/WaypointData.dat
+journeymap/data/sp/New World (2)/ae2~spatial_storage/biome/-1,-1.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/biome/-1,0.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/biome/0,-1.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/biome/0,0.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/ae2~spatial_storage/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/ae2~spatial_storage/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/ae2~spatial_storage/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/ae2~spatial_storage/day/0,0.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/night/0,0.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/-1,-1.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/-1,0.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/0,-1.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/0,0.png
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/ae2~spatial_storage/topo/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/0,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/0,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/1,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/1,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/cache/r.0.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/cache/r.1.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/-1/cache/r.1.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/2/-1,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/2/0,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/2/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/2/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/-1,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/0,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/0,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/0,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/1,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/1,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/cache/r.0.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/cache/r.1.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/3/cache/r.1.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/-1,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/-1,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/0,-1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/0,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/0,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/0,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/0,-5.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/0,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/0,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/1,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/1,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/biome/1,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.-1.1.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.0.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.0.-4.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.0.-5.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.0.1.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.1.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.1.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/cache/r.1.-4.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/-1,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/-1,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/0,-1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/0,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/0,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/0,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/0,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/0,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/1,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/1,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/day/1,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/-1,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/-1,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/0,-1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/0,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/0,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/0,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/0,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/0,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/1,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/1,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/night/1,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/-1,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/-1,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/0,-1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/0,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/0,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/0,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/0,-5.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/0,0.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/0,1.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/1,-2.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/1,-3.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/1,-4.png
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.-1.1.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.0.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.0.-4.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.0.-5.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.0.1.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.1.-2.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.1.-3.mca
+journeymap/data/sp/New World (2)/eternal_starlight~starlight/topo/cache/r.1.-4.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/biome/-1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/biome/-1,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/biome/0,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/biome/0,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/biome/0,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/biome/1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/biome/1,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/cache/r.-1.-2.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/cache/r.1.0.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/day/-1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/day/-1,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/day/0,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/day/0,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/day/0,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/day/1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/day/1,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/night/-1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/night/-1,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/night/0,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/night/0,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/night/0,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/night/1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/night/1,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/-1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/-1,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/0,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/0,-2.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/0,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/1,-1.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/1,0.png
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/cache/r.-1.-2.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/gaiadimension~gaia_dimension/topo/cache/r.1.0.mca
+journeymap/data/sp/New World (2)/overworld/biome/-1,-1.png
+journeymap/data/sp/New World (2)/overworld/biome/-1,0.png
+journeymap/data/sp/New World (2)/overworld/biome/0,-1.png
+journeymap/data/sp/New World (2)/overworld/biome/0,0.png
+journeymap/data/sp/New World (2)/overworld/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/overworld/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/overworld/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/overworld/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/overworld/day/-1,-1.png
+journeymap/data/sp/New World (2)/overworld/day/-1,0.png
+journeymap/data/sp/New World (2)/overworld/day/0,-1.png
+journeymap/data/sp/New World (2)/overworld/day/0,0.png
+journeymap/data/sp/New World (2)/overworld/night/-1,-1.png
+journeymap/data/sp/New World (2)/overworld/night/-1,0.png
+journeymap/data/sp/New World (2)/overworld/night/0,-1.png
+journeymap/data/sp/New World (2)/overworld/night/0,0.png
+journeymap/data/sp/New World (2)/overworld/topo/-1,-1.png
+journeymap/data/sp/New World (2)/overworld/topo/-1,0.png
+journeymap/data/sp/New World (2)/overworld/topo/0,-1.png
+journeymap/data/sp/New World (2)/overworld/topo/0,0.png
+journeymap/data/sp/New World (2)/overworld/topo/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/overworld/topo/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/overworld/topo/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/overworld/topo/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/biome/-1,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/biome/-1,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/biome/0,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/biome/0,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/day/-1,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/day/-1,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/day/0,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/day/0,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/night/-1,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/night/-1,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/night/0,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/night/0,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/-1,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/-1,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/0,-1.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/0,0.png
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/solara_dimension~solarademension/topo/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/biome/-1,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/biome/-1,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/biome/0,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/biome/0,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/cache/r.-1.-2.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/day/-1,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/day/-1,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/day/0,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/day/0,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/night/-1,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/night/-1,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/night/0,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/night/0,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/-1,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/-1,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/0,-1.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/0,-2.png
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/cache/r.-1.-2.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/starlandsdimension~the_starlands/topo/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/stellaris~mars/-1/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/-1/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/-1/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/-1/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/-4/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/-4/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/-4/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/-4/1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/-4/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/-4/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/-4/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/-4/cache/r.1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/1/-1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/1/-1,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/1/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/1/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/1/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/1/cache/r.-1.1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/1/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/1/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/2/-1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/2/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/3/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/3/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/3/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/3/1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/3/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/3/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/3/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/3/cache/r.1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/4/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/4/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/4/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/4/1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/4/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/4/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/4/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/4/cache/r.1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/biome/-1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/-1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/-1,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/-2,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/-2,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/0,-2.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/0,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/1,-2.png
+journeymap/data/sp/New World (2)/stellaris~mars/biome/1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.-1.1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.-2.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.-2.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.0.1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.1.-2.mca
+journeymap/data/sp/New World (2)/stellaris~mars/cache/r.1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/day/-1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/-1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/-1,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/-2,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/-2,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/0,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/day/1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/-1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/-1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/-1,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/-2,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/-2,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/0,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/night/1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/-1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/-1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/-1,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/-2,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/-2,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/0,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/0,-2.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/0,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/0,1.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/1,-1.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/1,-2.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/1,0.png
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.-1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.-1.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.-1.1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.-2.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.-2.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.0.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.0.-2.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.0.0.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.0.1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.1.-1.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.1.-2.mca
+journeymap/data/sp/New World (2)/stellaris~mars/topo/cache/r.1.0.mca
+journeymap/data/sp/New World (2)/waypoints/WaypointData.dat
+journeymap/icon/entity/gaiadimension/ancient_lagrahk.png
+journeymap/icon/entity/gaiadimension/ancient_lagrahk_outlined.png
+journeymap/icon/entity/gaiadimension/archaic_warrior.png
+journeymap/icon/entity/gaiadimension/archaic_warrior_outlined.png
+journeymap/icon/entity/gaiadimension/cavern_tick.png
+journeymap/icon/entity/gaiadimension/cavern_tick_outlined.png
+journeymap/icon/entity/gaiadimension/growth_sapper_pink.png
+journeymap/icon/entity/gaiadimension/growth_sapper_pink_outlined.png
+journeymap/icon/entity/gaiadimension/nomadic_lagrahk_base.png
+journeymap/icon/entity/gaiadimension/nomadic_lagrahk_base_outlined.png
+journeymap/icon/entity/gaiadimension/shallow_arenthis.png
+journeymap/icon/entity/gaiadimension/shallow_arenthis_outlined.png
+journeymap/icon/entity/gaiadimension/shalurker.png
+journeymap/icon/entity/gaiadimension/shalurker_outlined.png
+journeymap/icon/entity/minecraft/armadillo.png
+journeymap/icon/entity/minecraft/armadillo_outlined.png
+journeymap/icon/entity/minecraft/bee.png
+journeymap/icon/entity/minecraft/bee_outlined.png
+journeymap/icon/entity/minecraft/cat_siamese.png
+journeymap/icon/entity/minecraft/cat_siamese_outlined.png
+journeymap/icon/entity/minecraft/chicken.png
+journeymap/icon/entity/minecraft/chicken_outlined.png
+journeymap/icon/entity/minecraft/cow.png
+journeymap/icon/entity/minecraft/cow_outlined.png
+journeymap/icon/entity/minecraft/creeper.png
+journeymap/icon/entity/minecraft/creeper_outlined.png
+journeymap/icon/entity/minecraft/dolphin.png
+journeymap/icon/entity/minecraft/dolphin_outlined.png
+journeymap/icon/entity/minecraft/fox.png
+journeymap/icon/entity/minecraft/fox_outlined.png
+journeymap/icon/entity/minecraft/fox_sleep.png
+journeymap/icon/entity/minecraft/fox_sleep_outlined.png
+journeymap/icon/entity/minecraft/goat.png
+journeymap/icon/entity/minecraft/goat_outlined.png
+journeymap/icon/entity/minecraft/horse_brown.png
+journeymap/icon/entity/minecraft/horse_brown_outlined.png
+journeymap/icon/entity/minecraft/horse_mule.png
+journeymap/icon/entity/minecraft/horse_mule_outlined.png
+journeymap/icon/entity/minecraft/horse_white.png
+journeymap/icon/entity/minecraft/horse_white_outlined.png
+journeymap/icon/entity/minecraft/pig.png
+journeymap/icon/entity/minecraft/pig_outlined.png
+journeymap/icon/entity/minecraft/rabbit_brown.png
+journeymap/icon/entity/minecraft/rabbit_brown_outlined.png
+journeymap/icon/entity/minecraft/sheep.png
+journeymap/icon/entity/minecraft/sheep_outlined.png
+journeymap/icon/entity/minecraft/squid.png
+journeymap/icon/entity/minecraft/squid_outlined.png
+journeymap/icon/entity/minecraft/wolf.png
+journeymap/icon/entity/minecraft/wolf_outlined.png
+journeymap/icon/entity/minecraft/zombie.png
+journeymap/icon/entity/minecraft/zombie_outlined.png
+journeymap/icon/theme/default.theme.config
+journeymap/icon/theme/flat/container/htoolbar_begin.png
+journeymap/icon/theme/flat/container/htoolbar_end.png
+journeymap/icon/theme/flat/container/htoolbar_inner.png
+journeymap/icon/theme/flat/container/vtoolbar_begin.png
+journeymap/icon/theme/flat/container/vtoolbar_end.png
+journeymap/icon/theme/flat/container/vtoolbar_inner.png
+journeymap/icon/theme/flat/control/flat_button_disabled.png
+journeymap/icon/theme/flat/control/flat_button_hover.png
+journeymap/icon/theme/flat/control/flat_button_off.png
+journeymap/icon/theme/flat/control/flat_button_on.png
+journeymap/icon/theme/flat/control/flat_toggle_disabled.png
+journeymap/icon/theme/flat/control/flat_toggle_hover.png
+journeymap/icon/theme/flat/control/flat_toggle_off.png
+journeymap/icon/theme/flat/control/flat_toggle_on.png
+journeymap/icon/theme/flat/DesertTemple.theme2.json
+journeymap/icon/theme/flat/EndCity.theme2.json
+journeymap/icon/theme/flat/ForestMansion.theme2.json
+journeymap/icon/theme/flat/icon/about.png
+journeymap/icon/theme/flat/icon/actions.png
+journeymap/icon/theme/flat/icon/alert.png
+journeymap/icon/theme/flat/icon/animals.png
+journeymap/icon/theme/flat/icon/automap.png
+journeymap/icon/theme/flat/icon/biome.png
+journeymap/icon/theme/flat/icon/browser.png
+journeymap/icon/theme/flat/icon/caves.png
+journeymap/icon/theme/flat/icon/close.png
+journeymap/icon/theme/flat/icon/colorpalette.png
+journeymap/icon/theme/flat/icon/day.png
+journeymap/icon/theme/flat/icon/delete.png
+journeymap/icon/theme/flat/icon/disable.png
+journeymap/icon/theme/flat/icon/follow.png
+journeymap/icon/theme/flat/icon/grid.png
+journeymap/icon/theme/flat/icon/keys.png
+journeymap/icon/theme/flat/icon/layers.png
+journeymap/icon/theme/flat/icon/monsters.png
+journeymap/icon/theme/flat/icon/night.png
+journeymap/icon/theme/flat/icon/options.png
+journeymap/icon/theme/flat/icon/pets.png
+journeymap/icon/theme/flat/icon/players.png
+journeymap/icon/theme/flat/icon/reset.png
+journeymap/icon/theme/flat/icon/savemap.png
+journeymap/icon/theme/flat/icon/search.png
+journeymap/icon/theme/flat/icon/server.png
+journeymap/icon/theme/flat/icon/topo.png
+journeymap/icon/theme/flat/icon/villagers.png
+journeymap/icon/theme/flat/icon/waypoints.png
+journeymap/icon/theme/flat/icon/zoomin.png
+journeymap/icon/theme/flat/icon/zoomout.png
+journeymap/icon/theme/flat/minimap/circle/flat_compass_point.png
+journeymap/icon/theme/flat/minimap/circle/flat_mask_256.png
+journeymap/icon/theme/flat/minimap/circle/flat_mask_512.png
+journeymap/icon/theme/flat/minimap/circle/flat_rim_256.png
+journeymap/icon/theme/flat/minimap/circle/flat_rim_512.png
+journeymap/icon/theme/flat/minimap/circle/pur_compass_point.png
+journeymap/icon/theme/flat/minimap/circle/pur_mask_256.png
+journeymap/icon/theme/flat/minimap/circle/pur_mask_512.png
+journeymap/icon/theme/flat/minimap/circle/pur_rim_256.png
+journeymap/icon/theme/flat/minimap/circle/pur_rim_512.png
+journeymap/icon/theme/flat/minimap/square/flat_bottom.png
+journeymap/icon/theme/flat/minimap/square/flat_bottomleft.png
+journeymap/icon/theme/flat/minimap/square/flat_bottomright.png
+journeymap/icon/theme/flat/minimap/square/flat_compass_point.png
+journeymap/icon/theme/flat/minimap/square/flat_left.png
+journeymap/icon/theme/flat/minimap/square/flat_right.png
+journeymap/icon/theme/flat/minimap/square/flat_top.png
+journeymap/icon/theme/flat/minimap/square/flat_topleft.png
+journeymap/icon/theme/flat/minimap/square/flat_topright.png
+journeymap/icon/theme/flat/minimap/square/pur_bottom.png
+journeymap/icon/theme/flat/minimap/square/pur_bottomleft.png
+journeymap/icon/theme/flat/minimap/square/pur_bottomright.png
+journeymap/icon/theme/flat/minimap/square/pur_compass_point.png
+journeymap/icon/theme/flat/minimap/square/pur_left.png
+journeymap/icon/theme/flat/minimap/square/pur_right.png
+journeymap/icon/theme/flat/minimap/square/pur_top.png
+journeymap/icon/theme/flat/minimap/square/pur_topleft.png
+journeymap/icon/theme/flat/minimap/square/pur_topright.png
+journeymap/icon/theme/flat/NetherFortress.theme2.json
+journeymap/icon/theme/flat/OceanMonument.theme2.json
+journeymap/icon/theme/flat/Purist.theme2.json
+journeymap/icon/theme/flat/Stronghold.theme2.json
+journeymap/icon/theme/vault/_flat/container/htoolbar_begin.png
+journeymap/icon/theme/vault/_flat/container/htoolbar_end.png
+journeymap/icon/theme/vault/_flat/container/htoolbar_inner.png
+journeymap/icon/theme/vault/_flat/container/unkown.png
+journeymap/icon/theme/vault/_flat/container/vtoolbar_begin.png
+journeymap/icon/theme/vault/_flat/container/vtoolbar_end.png
+journeymap/icon/theme/vault/_flat/container/vtoolbar_inner.png
+journeymap/icon/theme/vault/_flat/control/flat_button_disabled.png
+journeymap/icon/theme/vault/_flat/control/flat_button_hover.png
+journeymap/icon/theme/vault/_flat/control/flat_button_off.png
+journeymap/icon/theme/vault/_flat/control/flat_button_on.png
+journeymap/icon/theme/vault/_flat/control/flat_toggle_disabled.png
+journeymap/icon/theme/vault/_flat/control/flat_toggle_hover.png
+journeymap/icon/theme/vault/_flat/control/flat_toggle_off.png
+journeymap/icon/theme/vault/_flat/control/flat_toggle_on.png
+journeymap/icon/theme/vault/_flat/icon/about.png
+journeymap/icon/theme/vault/_flat/icon/actions.png
+journeymap/icon/theme/vault/_flat/icon/alert.png
+journeymap/icon/theme/vault/_flat/icon/animals.png
+journeymap/icon/theme/vault/_flat/icon/automap.png
+journeymap/icon/theme/vault/_flat/icon/biome.png
+journeymap/icon/theme/vault/_flat/icon/browser.png
+journeymap/icon/theme/vault/_flat/icon/caves.png
+journeymap/icon/theme/vault/_flat/icon/close.png
+journeymap/icon/theme/vault/_flat/icon/colorpalette.png
+journeymap/icon/theme/vault/_flat/icon/day.png
+journeymap/icon/theme/vault/_flat/icon/delete.png
+journeymap/icon/theme/vault/_flat/icon/disable.png
+journeymap/icon/theme/vault/_flat/icon/follow.png
+journeymap/icon/theme/vault/_flat/icon/grid.png
+journeymap/icon/theme/vault/_flat/icon/keys.png
+journeymap/icon/theme/vault/_flat/icon/layers.png
+journeymap/icon/theme/vault/_flat/icon/monsters.png
+journeymap/icon/theme/vault/_flat/icon/night.png
+journeymap/icon/theme/vault/_flat/icon/options.png
+journeymap/icon/theme/vault/_flat/icon/pets.png
+journeymap/icon/theme/vault/_flat/icon/players.png
+journeymap/icon/theme/vault/_flat/icon/reset.png
+journeymap/icon/theme/vault/_flat/icon/savemap.png
+journeymap/icon/theme/vault/_flat/icon/search.png
+journeymap/icon/theme/vault/_flat/icon/server.png
+journeymap/icon/theme/vault/_flat/icon/topo.png
+journeymap/icon/theme/vault/_flat/icon/villagers.png
+journeymap/icon/theme/vault/_flat/icon/waypoints.png
+journeymap/icon/theme/vault/_flat/icon/zoomin.png
+journeymap/icon/theme/vault/_flat/icon/zoomout.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_bottom.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomleft.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_bottomright.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_compass_point.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_left.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_right.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_top.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_topleft.png
+journeymap/icon/theme/vault/_flat/minimap/square/flat_topright.png
+journeymap/icon/theme/vault/_flat/minimap/square/pur_bottom.png
+journeymap/icon/theme/vault/_flat/vault.theme2.json
+journeymap/icon/theme/vault/container/htoolbar_begin.png
+journeymap/icon/theme/vault/container/htoolbar_end.png
+journeymap/icon/theme/vault/container/htoolbar_inner.png
+journeymap/icon/theme/vault/container/vtoolbar_begin.png
+journeymap/icon/theme/vault/container/vtoolbar_end.png
+journeymap/icon/theme/vault/container/vtoolbar_inner.png
+journeymap/icon/theme/vault/control/flat_button_disabled.png
+journeymap/icon/theme/vault/control/flat_button_hover.png
+journeymap/icon/theme/vault/control/flat_button_off.png
+journeymap/icon/theme/vault/control/flat_button_on.png
+journeymap/icon/theme/vault/control/flat_toggle_disabled.png
+journeymap/icon/theme/vault/control/flat_toggle_hover.png
+journeymap/icon/theme/vault/control/flat_toggle_off.png
+journeymap/icon/theme/vault/control/flat_toggle_on.png
+journeymap/icon/theme/vault/icon/about.png
+journeymap/icon/theme/vault/icon/actions.png
+journeymap/icon/theme/vault/icon/alert.png
+journeymap/icon/theme/vault/icon/animals.png
+journeymap/icon/theme/vault/icon/automap.png
+journeymap/icon/theme/vault/icon/biome.png
+journeymap/icon/theme/vault/icon/browser.png
+journeymap/icon/theme/vault/icon/caves.png
+journeymap/icon/theme/vault/icon/close.png
+journeymap/icon/theme/vault/icon/colorpalette.png
+journeymap/icon/theme/vault/icon/day.png
+journeymap/icon/theme/vault/icon/delete.png
+journeymap/icon/theme/vault/icon/disable.png
+journeymap/icon/theme/vault/icon/follow.png
+journeymap/icon/theme/vault/icon/grid.png
+journeymap/icon/theme/vault/icon/keys.png
+journeymap/icon/theme/vault/icon/layers.png
+journeymap/icon/theme/vault/icon/monsters.png
+journeymap/icon/theme/vault/icon/night.png
+journeymap/icon/theme/vault/icon/options.png
+journeymap/icon/theme/vault/icon/pets.png
+journeymap/icon/theme/vault/icon/players.png
+journeymap/icon/theme/vault/icon/reset.png
+journeymap/icon/theme/vault/icon/savemap.png
+journeymap/icon/theme/vault/icon/search.png
+journeymap/icon/theme/vault/icon/server.png
+journeymap/icon/theme/vault/icon/topo.png
+journeymap/icon/theme/vault/icon/villagers.png
+journeymap/icon/theme/vault/icon/waypoints.png
+journeymap/icon/theme/vault/icon/zoomin.png
+journeymap/icon/theme/vault/icon/zoomout.png
+journeymap/icon/theme/vault/minimap/square/flat_bottom.png
+journeymap/icon/theme/vault/minimap/square/flat_bottomleft.png
+journeymap/icon/theme/vault/minimap/square/flat_bottomright.png
+journeymap/icon/theme/vault/minimap/square/flat_compass_point.png
+journeymap/icon/theme/vault/minimap/square/flat_left.png
+journeymap/icon/theme/vault/minimap/square/flat_right.png
+journeymap/icon/theme/vault/minimap/square/flat_top.png
+journeymap/icon/theme/vault/minimap/square/flat_topleft.png
+journeymap/icon/theme/vault/minimap/square/flat_topright.png
+journeymap/icon/theme/vault/minimap/square/pur_bottom.png
+journeymap/icon/theme/vault/vault.theme2.json
+journeymap/icon/theme/vault_flat/container/htoolbar_begin.png
+journeymap/icon/theme/vault_flat/container/htoolbar_end.png
+journeymap/icon/theme/vault_flat/container/htoolbar_inner.png
+journeymap/icon/theme/vault_flat/container/unkown.png
+journeymap/icon/theme/vault_flat/container/vtoolbar_begin.png
+journeymap/icon/theme/vault_flat/container/vtoolbar_end.png
+journeymap/icon/theme/vault_flat/container/vtoolbar_inner.png
+journeymap/icon/theme/vault_flat/control/flat_button_disabled.png
+journeymap/icon/theme/vault_flat/control/flat_button_hover.png
+journeymap/icon/theme/vault_flat/control/flat_button_off.png
+journeymap/icon/theme/vault_flat/control/flat_button_on.png
+journeymap/icon/theme/vault_flat/control/flat_toggle_disabled.png
+journeymap/icon/theme/vault_flat/control/flat_toggle_hover.png
+journeymap/icon/theme/vault_flat/control/flat_toggle_off.png
+journeymap/icon/theme/vault_flat/control/flat_toggle_on.png
+journeymap/icon/theme/vault_flat/icon/about.png
+journeymap/icon/theme/vault_flat/icon/actions.png
+journeymap/icon/theme/vault_flat/icon/alert.png
+journeymap/icon/theme/vault_flat/icon/animals.png
+journeymap/icon/theme/vault_flat/icon/automap.png
+journeymap/icon/theme/vault_flat/icon/biome.png
+journeymap/icon/theme/vault_flat/icon/browser.png
+journeymap/icon/theme/vault_flat/icon/caves.png
+journeymap/icon/theme/vault_flat/icon/close.png
+journeymap/icon/theme/vault_flat/icon/colorpalette.png
+journeymap/icon/theme/vault_flat/icon/day.png
+journeymap/icon/theme/vault_flat/icon/delete.png
+journeymap/icon/theme/vault_flat/icon/disable.png
+journeymap/icon/theme/vault_flat/icon/follow.png
+journeymap/icon/theme/vault_flat/icon/grid.png
+journeymap/icon/theme/vault_flat/icon/keys.png
+journeymap/icon/theme/vault_flat/icon/layers.png
+journeymap/icon/theme/vault_flat/icon/monsters.png
+journeymap/icon/theme/vault_flat/icon/night.png
+journeymap/icon/theme/vault_flat/icon/options.png
+journeymap/icon/theme/vault_flat/icon/pets.png
+journeymap/icon/theme/vault_flat/icon/players.png
+journeymap/icon/theme/vault_flat/icon/reset.png
+journeymap/icon/theme/vault_flat/icon/savemap.png
+journeymap/icon/theme/vault_flat/icon/search.png
+journeymap/icon/theme/vault_flat/icon/server.png
+journeymap/icon/theme/vault_flat/icon/topo.png
+journeymap/icon/theme/vault_flat/icon/villagers.png
+journeymap/icon/theme/vault_flat/icon/waypoints.png
+journeymap/icon/theme/vault_flat/icon/zoomin.png
+journeymap/icon/theme/vault_flat/icon/zoomout.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_bottom.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_bottomleft.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_bottomright.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_compass_point.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_left.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_right.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_top.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_topleft.png
+journeymap/icon/theme/vault_flat/minimap/square/flat_topright.png
+journeymap/icon/theme/vault_flat/minimap/square/pur_bottom.png
+journeymap/icon/theme/vault_flat/vault.theme2.json
+journeymap/icon/theme/victorian_/container/htoolbar_begin.png
+journeymap/icon/theme/victorian_/container/htoolbar_end.png
+journeymap/icon/theme/victorian_/container/htoolbar_inner.png
+journeymap/icon/theme/victorian_/container/vtoolbar_begin.png
+journeymap/icon/theme/victorian_/container/vtoolbar_end.png
+journeymap/icon/theme/victorian_/container/vtoolbar_inner.png
+journeymap/icon/theme/victorian_/control/button_disabled.png
+journeymap/icon/theme/victorian_/control/button_hover.png
+journeymap/icon/theme/victorian_/control/button_off.png
+journeymap/icon/theme/victorian_/control/button_on.png
+journeymap/icon/theme/victorian_/control/toggle_disabled.png
+journeymap/icon/theme/victorian_/control/toggle_hover.png
+journeymap/icon/theme/victorian_/control/toggle_off.png
+journeymap/icon/theme/victorian_/control/toggle_on.png
+journeymap/icon/theme/victorian_/icon/about.png
+journeymap/icon/theme/victorian_/icon/actions.png
+journeymap/icon/theme/victorian_/icon/alert.png
+journeymap/icon/theme/victorian_/icon/animals.png
+journeymap/icon/theme/victorian_/icon/automap.png
+journeymap/icon/theme/victorian_/icon/biome.png
+journeymap/icon/theme/victorian_/icon/browser.png
+journeymap/icon/theme/victorian_/icon/caves.png
+journeymap/icon/theme/victorian_/icon/close.png
+journeymap/icon/theme/victorian_/icon/colorpalette.png
+journeymap/icon/theme/victorian_/icon/day.png
+journeymap/icon/theme/victorian_/icon/delete.png
+journeymap/icon/theme/victorian_/icon/disable.png
+journeymap/icon/theme/victorian_/icon/follow.png
+journeymap/icon/theme/victorian_/icon/grid.png
+journeymap/icon/theme/victorian_/icon/keys.png
+journeymap/icon/theme/victorian_/icon/layers.png
+journeymap/icon/theme/victorian_/icon/monsters.png
+journeymap/icon/theme/victorian_/icon/night.png
+journeymap/icon/theme/victorian_/icon/options.png
+journeymap/icon/theme/victorian_/icon/pets.png
+journeymap/icon/theme/victorian_/icon/players.png
+journeymap/icon/theme/victorian_/icon/reset.png
+journeymap/icon/theme/victorian_/icon/savemap.png
+journeymap/icon/theme/victorian_/icon/search.png
+journeymap/icon/theme/victorian_/icon/topo.png
+journeymap/icon/theme/victorian_/icon/villagers.png
+journeymap/icon/theme/victorian_/icon/waypoints.png
+journeymap/icon/theme/victorian_/icon/zoomin.png
+journeymap/icon/theme/victorian_/icon/zoomout.png
+journeymap/icon/theme/victorian_/minimap/circle/compass_point.png
+journeymap/icon/theme/victorian_/minimap/circle/mask_256.png
+journeymap/icon/theme/victorian_/minimap/circle/mask_512.png
+journeymap/icon/theme/victorian_/minimap/circle/rim_256.png
+journeymap/icon/theme/victorian_/minimap/circle/rim_512.png
+journeymap/icon/theme/victorian_/minimap/square/pur_bottom.png
+journeymap/icon/theme/victorian_/minimap/square/pur_bottomleft.png
+journeymap/icon/theme/victorian_/minimap/square/pur_bottomright.png
+journeymap/icon/theme/victorian_/minimap/square/pur_left.png
+journeymap/icon/theme/victorian_/minimap/square/pur_right.png
+journeymap/icon/theme/victorian_/minimap/square/pur_top.png
+journeymap/icon/theme/victorian_/minimap/square/pur_topleft.png
+journeymap/icon/theme/victorian_/minimap/square/pur_topright.png
+journeymap/icon/theme/victorian_/minimap/square/vic_bottom.png
+journeymap/icon/theme/victorian_/minimap/square/vic_bottomleft.png
+journeymap/icon/theme/victorian_/minimap/square/vic_bottomright.png
+journeymap/icon/theme/victorian_/minimap/square/vic_compass_point.png
+journeymap/icon/theme/victorian_/minimap/square/vic_left.png
+journeymap/icon/theme/victorian_/minimap/square/vic_right.png
+journeymap/icon/theme/victorian_/minimap/square/vic_top.png
+journeymap/icon/theme/victorian_/minimap/square/vic_topleft.png
+journeymap/icon/theme/victorian_/minimap/square/vic_topright.png
+journeymap/icon/theme/victorian_/victorian_.theme2.json
+journeymap/journeymap.log
+journeymap/server/6.0/journeymap.server.ae2~spatial_storage.config
+journeymap/server/6.0/journeymap.server.aether~the_aether.config
+journeymap/server/6.0/journeymap.server.astral_dimension~astral_dimension.config
+journeymap/server/6.0/journeymap.server.deeperdarker~otherside.config
+journeymap/server/6.0/journeymap.server.default.config
+journeymap/server/6.0/journeymap.server.emerald_dimension~e_dimension.config
+journeymap/server/6.0/journeymap.server.eternal_starlight~starlight.config
+journeymap/server/6.0/journeymap.server.gaiadimension~gaia_dimension.config
+journeymap/server/6.0/journeymap.server.global.config
+journeymap/server/6.0/journeymap.server.lostcities~lostcity.config
+journeymap/server/6.0/journeymap.server.minecraft~overworld.config
+journeymap/server/6.0/journeymap.server.minecraft~the_end.config
+journeymap/server/6.0/journeymap.server.minecraft~the_nether.config
+journeymap/server/6.0/journeymap.server.solara_dimension~solarademension.config
+journeymap/server/6.0/journeymap.server.starlandsdimension~the_starlands.config
+journeymap/server/6.0/journeymap.server.stellaris~mars.config
+journeymap/server/6.0/journeymap.server.stellaris~mercury.config
+journeymap/server/6.0/journeymap.server.stellaris~moon.config
+journeymap/server/6.0/journeymap.server.stellaris~venus.config
+journeymap/server/6.0/journeymap.server.the_bumblezone~the_bumblezone.config
+journeymap/server/6.0/journeymap.server.twilightforest~twilight_forest.config
+journeymap/server/6.0/journeymap.server.undergarden~undergarden.config
+local/ftblibrary-client.snbt
+logs/2024-11-18-1.log.gz
+logs/2024-11-18-2.log.gz
+logs/2024-11-18-3.log.gz
+logs/2024-11-18-4.log.gz
+logs/2024-11-18-5.log.gz
+logs/2024-11-18-6.log.gz
+logs/2024-11-18-7.log.gz
+logs/debug-1.log.gz
+logs/debug-2.log.gz
+logs/debug-3.log.gz
+logs/debug-4.log.gz
+logs/debug-5.log.gz
+logs/debug.log
+logs/latest.log
+logs/telemetry/20241118-1.json.gz
+logs/telemetry/20241118-10.json.gz
+logs/telemetry/20241118-11.json.gz
+logs/telemetry/20241118-12.json.gz
+logs/telemetry/20241118-13.json
+logs/telemetry/20241118-2.json.gz
+logs/telemetry/20241118-3.json.gz
+logs/telemetry/20241118-4.json.gz
+logs/telemetry/20241118-5.json.gz
+logs/telemetry/20241118-6.json.gz
+logs/telemetry/20241118-7.json.gz
+logs/telemetry/20241118-8.json.gz
+logs/telemetry/20241118-9.json.gz
+mods/.connector/bclib-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/bclib-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/better-end-21.0.11_mapped_moj_1.21.1.jar
+mods/.connector/better-end-21.0.11_mapped_moj_1.21.1.jar.input
+mods/.connector/patch_audit.txt
+mods/.connector/ScalableLux-0.1.0+fabric.26c6e72-all_mapped_moj_1.21.1.jar
+mods/.connector/ScalableLux-0.1.0+fabric.26c6e72-all_mapped_moj_1.21.1.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-biome-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-biome-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-block-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-block-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-common-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-common-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-core-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-core-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-datagen-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-datagen-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-event-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-event-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-feature-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-feature-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-generator-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-generator-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-item-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-item-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-math-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-math-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-preset-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-preset-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-recipe-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-recipe-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-structure-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-structure-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-surface-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-surface-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-tag-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-tag-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wover-ui-api-21.0.13.jar
+mods/.connector/temp/worldweaver-21.0.13$wover-ui-api-21.0.13.jar.input
+mods/.connector/temp/worldweaver-21.0.13$wunderlib-21.0.8.jar
+mods/.connector/temp/worldweaver-21.0.13$wunderlib-21.0.8.jar.input
+mods/.connector/worldweaver-21.0.13$wover-biome-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-biome-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-block-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-block-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-common-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-common-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-core-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-core-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-datagen-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-datagen-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-event-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-event-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-feature-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-feature-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-generator-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-generator-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-item-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-item-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-math-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-math-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-preset-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-preset-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-recipe-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-recipe-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-structure-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-structure-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-surface-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-surface-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-tag-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-tag-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wover-ui-api-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wover-ui-api-21.0.13_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13$wunderlib-21.0.8_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13$wunderlib-21.0.8_mapped_moj_1.21.1.jar.input
+mods/.connector/worldweaver-21.0.13_mapped_moj_1.21.1.jar
+mods/.connector/worldweaver-21.0.13_mapped_moj_1.21.1.jar.input
+options.txt
+realms_persistence.json
+saves/New World (1)/advancements/048327bc-6a83-429a-9581-d810649dece7.json
+saves/New World (1)/data/ae2_compass_0_0.dat
+saves/New World (1)/data/bclib.nbt
+saves/New World (1)/data/chunks.dat
+saves/New World (1)/data/command_storage_aj.dat
+saves/New World (1)/data/command_storage_dynamic_bossbars.dat
+saves/New World (1)/data/command_storage_ic.dat
+saves/New World (1)/data/JMPlayerSettings.dat
+saves/New World (1)/data/mfix_strongholds.dat
+saves/New World (1)/data/neoforge_data_attachments.dat
+saves/New World (1)/data/perks.dat
+saves/New World (1)/data/raids.dat
+saves/New World (1)/data/random_sequences.dat
+saves/New World (1)/data/scoreboard.dat
+saves/New World (1)/data/sophisticatedbackpacks.dat
+saves/New World (1)/data/WorldUUID.dat
+saves/New World (1)/data/wover-generator.nbt
+saves/New World (1)/DIM-1/data/neoforge_data_attachments.dat
+saves/New World (1)/DIM-1/data/raids.dat
+saves/New World (1)/DIM1/data/neoforge_data_attachments.dat
+saves/New World (1)/DIM1/data/raids_end.dat
+saves/New World (1)/dimensions/ae2/spatial_storage/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/ae2/spatial_storage/data/raids.dat
+saves/New World (1)/dimensions/aether/the_aether/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/aether/the_aether/data/raids.dat
+saves/New World (1)/dimensions/astral_dimension/astral_dimension/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/astral_dimension/astral_dimension/data/raids.dat
+saves/New World (1)/dimensions/deeperdarker/otherside/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/deeperdarker/otherside/data/raids.dat
+saves/New World (1)/dimensions/emerald_dimension/e_dimension/data/mfix_strongholds.dat
+saves/New World (1)/dimensions/emerald_dimension/e_dimension/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/emerald_dimension/e_dimension/data/raids.dat
+saves/New World (1)/dimensions/eternal_starlight/starlight/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/eternal_starlight/starlight/data/raids.dat
+saves/New World (1)/dimensions/eternal_starlight/starlight/data/weathers.dat
+saves/New World (1)/dimensions/gaiadimension/gaia_dimension/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/gaiadimension/gaia_dimension/data/raids.dat
+saves/New World (1)/dimensions/lostcities/lostcity/data/mfix_strongholds.dat
+saves/New World (1)/dimensions/lostcities/lostcity/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/lostcities/lostcity/data/raids.dat
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/entities/r.-1.-1.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/entities/r.-1.0.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/entities/r.0.-1.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/entities/r.0.0.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/poi/r.-1.-1.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/poi/r.-1.0.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/poi/r.0.-1.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/poi/r.0.0.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/region/r.-1.-1.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/region/r.-1.0.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/region/r.0.-1.mca
+saves/New World (1)/dimensions/minecraft/server_faucet_test_level/region/r.0.0.mca
+saves/New World (1)/dimensions/solara_dimension/solarademension/data/mfix_strongholds.dat
+saves/New World (1)/dimensions/solara_dimension/solarademension/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/solara_dimension/solarademension/data/raids.dat
+saves/New World (1)/dimensions/starlandsdimension/the_starlands/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/starlandsdimension/the_starlands/data/raids.dat
+saves/New World (1)/dimensions/stellaris/mars/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/stellaris/mars/data/raids.dat
+saves/New World (1)/dimensions/stellaris/mercury/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/stellaris/mercury/data/raids.dat
+saves/New World (1)/dimensions/stellaris/moon/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/stellaris/moon/data/raids.dat
+saves/New World (1)/dimensions/stellaris/venus/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/stellaris/venus/data/raids.dat
+saves/New World (1)/dimensions/the_bumblezone/the_bumblezone/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/the_bumblezone/the_bumblezone/data/raids.dat
+saves/New World (1)/dimensions/twilightforest/twilight_forest/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/twilightforest/twilight_forest/data/raids.dat
+saves/New World (1)/dimensions/undergarden/undergarden/data/neoforge_data_attachments.dat
+saves/New World (1)/dimensions/undergarden/undergarden/data/raids.dat
+saves/New World (1)/entities/r.-1.-1.mca
+saves/New World (1)/entities/r.-1.0.mca
+saves/New World (1)/entities/r.-1.1.mca
+saves/New World (1)/entities/r.-1.2.mca
+saves/New World (1)/entities/r.-1.3.mca
+saves/New World (1)/entities/r.0.-1.mca
+saves/New World (1)/entities/r.0.0.mca
+saves/New World (1)/entities/r.0.1.mca
+saves/New World (1)/icon.png
+saves/New World (1)/level.dat
+saves/New World (1)/level.dat_old
+saves/New World (1)/playerdata/048327bc-6a83-429a-9581-d810649dece7.dat
+saves/New World (1)/playerdata/048327bc-6a83-429a-9581-d810649dece7.dat_old
+saves/New World (1)/poi/r.-1.-1.mca
+saves/New World (1)/poi/r.-1.0.mca
+saves/New World (1)/poi/r.-1.1.mca
+saves/New World (1)/poi/r.-1.2.mca
+saves/New World (1)/poi/r.-1.3.mca
+saves/New World (1)/poi/r.-2.-1.mca
+saves/New World (1)/poi/r.-2.0.mca
+saves/New World (1)/poi/r.-2.1.mca
+saves/New World (1)/poi/r.0.-1.mca
+saves/New World (1)/poi/r.0.0.mca
+saves/New World (1)/poi/r.0.1.mca
+saves/New World (1)/poi/r.0.2.mca
+saves/New World (1)/poi/r.0.3.mca
+saves/New World (1)/region/r.-1.-1.mca
+saves/New World (1)/region/r.-1.0.mca
+saves/New World (1)/region/r.-1.1.mca
+saves/New World (1)/region/r.-1.2.mca
+saves/New World (1)/region/r.-1.3.mca
+saves/New World (1)/region/r.-2.-1.mca
+saves/New World (1)/region/r.-2.0.mca
+saves/New World (1)/region/r.-2.1.mca
+saves/New World (1)/region/r.-2.2.mca
+saves/New World (1)/region/r.-2.3.mca
+saves/New World (1)/region/r.0.-1.mca
+saves/New World (1)/region/r.0.0.mca
+saves/New World (1)/region/r.0.1.mca
+saves/New World (1)/region/r.0.2.mca
+saves/New World (1)/region/r.0.3.mca
+saves/New World (1)/serverconfig/readme.txt
+saves/New World (1)/session.lock
+saves/New World (1)/stats/048327bc-6a83-429a-9581-d810649dece7.json
+saves/New World (2)/advancements/048327bc-6a83-429a-9581-d810649dece7.json
+saves/New World (2)/data/bclib.nbt
+saves/New World (2)/data/book_progressions.dat
+saves/New World (2)/data/chunks.dat
+saves/New World (2)/data/command_storage_aj.dat
+saves/New World (2)/data/command_storage_dynamic_bossbars.dat
+saves/New World (2)/data/command_storage_ic.dat
+saves/New World (2)/data/JMPlayerSettings.dat
+saves/New World (2)/data/lootr/0/01/01b52fc8-c1b2-4e1b-8a0f-9f6e81493366.dat
+saves/New World (2)/data/lootr/1/15/15824827-9673-4c20-b548-c864c3ef1ffe.dat
+saves/New World (2)/data/lootr/5/51/515fa5cf-e0d2-4b14-b44f-1f0cd677ffcc.dat
+saves/New World (2)/data/lootr/6/6b/6b17eba9-b7cd-440d-9802-aaf1624a7b36.dat
+saves/New World (2)/data/lootr/7/79/79fda421-6f1d-4ca3-8e0d-e1db0023cb5e.dat
+saves/New World (2)/data/lootr/8/80/80a1893f-6e03-4d54-86f0-d8518965be1e.dat
+saves/New World (2)/data/lootr/a/a0/a06aeba2-f8d1-42c2-ae34-050c9e286f54.dat
+saves/New World (2)/data/lootr/a/ab/ab6c29b5-a450-4cee-ace8-0e50d7169e63.dat
+saves/New World (2)/data/lootr/b/b8/b8a2ab2d-ca13-43bf-aeb6-3489f4bc6024.dat
+saves/New World (2)/data/lootr/b/be/be813032-7a9c-47cd-9530-4f7cd7dd203e.dat
+saves/New World (2)/data/lootr/c/ce/ce65cd0b-e0a4-4a09-b3c0-c69de4ff1e2d.dat
+saves/New World (2)/data/lootr/e/ec/ec5bcc68-fcae-411c-ab37-790c1a388e8b.dat
+saves/New World (2)/data/lootr/f/f3/f36c85e7-1725-440a-8625-2f69e7c03784.dat
+saves/New World (2)/data/neoforge_data_attachments.dat
+saves/New World (2)/data/perks.dat
+saves/New World (2)/data/raids.dat
+saves/New World (2)/data/random_sequences.dat
+saves/New World (2)/data/scoreboard.dat
+saves/New World (2)/data/sophisticatedbackpacks.dat
+saves/New World (2)/data/waystones.dat
+saves/New World (2)/data/WorldUUID.dat
+saves/New World (2)/data/wover-generator.nbt
+saves/New World (2)/DIM-1/data/neoforge_data_attachments.dat
+saves/New World (2)/DIM-1/data/raids.dat
+saves/New World (2)/DIM1/data/neoforge_data_attachments.dat
+saves/New World (2)/DIM1/data/raids_end.dat
+saves/New World (2)/dimensions/ae2/spatial_storage/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/ae2/spatial_storage/data/raids.dat
+saves/New World (2)/dimensions/ae2/spatial_storage/entities/r.-1.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/entities/r.-1.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/entities/r.0.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/entities/r.0.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/poi/r.-1.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/poi/r.-1.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/poi/r.0.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/poi/r.0.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-1.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-1.-2.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-1.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-1.1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-2.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-2.-2.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-2.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.-2.1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.0.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.0.-2.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.0.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.0.1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.1.-1.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.1.-2.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.1.0.mca
+saves/New World (2)/dimensions/ae2/spatial_storage/region/r.1.1.mca
+saves/New World (2)/dimensions/aether/the_aether/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/aether/the_aether/data/raids.dat
+saves/New World (2)/dimensions/astral_dimension/astral_dimension/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/astral_dimension/astral_dimension/data/raids.dat
+saves/New World (2)/dimensions/deeperdarker/otherside/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/deeperdarker/otherside/data/raids.dat
+saves/New World (2)/dimensions/emerald_dimension/e_dimension/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/emerald_dimension/e_dimension/data/raids.dat
+saves/New World (2)/dimensions/eternal_starlight/starlight/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/eternal_starlight/starlight/data/raids.dat
+saves/New World (2)/dimensions/eternal_starlight/starlight/data/weathers.dat
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.-1.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.-1.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.0.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.0.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.0.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.0.-4.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.0.-5.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.0.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.0.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.1.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.1.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/entities/r.1.-4.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-1.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-1.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-1.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-1.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-1.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-2.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-2.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.-2.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.0.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.0.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.0.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.0.-4.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.0.-5.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.0.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.0.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.1.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.1.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.1.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.1.-4.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.1.-5.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/poi/r.1.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-1.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-1.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-1.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-1.-4.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-1.-5.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-1.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-1.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-2.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-2.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.-2.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.0.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.0.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.0.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.0.-4.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.0.-5.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.0.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.0.1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.1.-1.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.1.-2.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.1.-3.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.1.-4.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.1.-5.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.1.0.mca
+saves/New World (2)/dimensions/eternal_starlight/starlight/region/r.1.1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/data/raids.dat
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.-1.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.-1.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.-1.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.0.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.0.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.0.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.1.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/entities/r.1.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.-1.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.-1.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.-1.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.0.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.0.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.0.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.1.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.1.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/poi/r.1.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.-1.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.-1.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.-1.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.-2.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.-2.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.-2.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.0.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.0.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.0.0.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.1.-1.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.1.-2.mca
+saves/New World (2)/dimensions/gaiadimension/gaia_dimension/region/r.1.0.mca
+saves/New World (2)/dimensions/lostcities/lostcity/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/lostcities/lostcity/data/raids.dat
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/entities/r.-1.0.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/entities/r.0.-1.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/entities/r.0.0.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/poi/r.-1.-1.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/poi/r.-1.0.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/poi/r.0.-1.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/poi/r.0.0.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/region/r.-1.-1.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/region/r.-1.0.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/region/r.0.-1.mca
+saves/New World (2)/dimensions/minecraft/server_faucet_test_level/region/r.0.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/solara_dimension/solarademension/data/raids.dat
+saves/New World (2)/dimensions/solara_dimension/solarademension/entities/r.-1.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/entities/r.-1.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/entities/r.0.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/entities/r.0.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.-1.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.-1.-2.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.-1.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.-2.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.-2.-2.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.-2.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.0.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.0.-2.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/poi/r.0.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-1.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-1.-2.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-1.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-1.1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-2.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-2.-2.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-2.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.-2.1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.0.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.0.-2.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.0.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.0.1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.1.-1.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.1.-2.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.1.0.mca
+saves/New World (2)/dimensions/solara_dimension/solarademension/region/r.1.1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/data/raids.dat
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/entities/r.-1.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/entities/r.-1.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/entities/r.0.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/entities/r.0.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.-1.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.-1.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.-1.0.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.-2.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.-2.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.-2.0.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.0.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.0.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/poi/r.0.0.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.-1.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.-1.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.-1.0.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.-2.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.-2.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.-2.0.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.0.-1.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.0.-2.mca
+saves/New World (2)/dimensions/starlandsdimension/the_starlands/region/r.0.0.mca
+saves/New World (2)/dimensions/stellaris/mars/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/stellaris/mars/data/raids.dat
+saves/New World (2)/dimensions/stellaris/mars/entities/r.-1.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.-1.0.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.-1.1.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.-2.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.-2.0.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.0.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.0.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.0.0.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.0.1.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.1.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.1.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/entities/r.1.0.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.-1.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.-1.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.-1.0.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.-1.1.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.-2.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.-2.0.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.-2.1.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.0.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.0.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.0.0.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.0.1.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.1.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.1.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.1.0.mca
+saves/New World (2)/dimensions/stellaris/mars/poi/r.1.1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.-1.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.-1.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.-1.0.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.-1.1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.-2.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.-2.0.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.-2.1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.0.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.0.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.0.0.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.0.1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.1.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.1.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.1.0.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.1.1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.2.-1.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.2.-2.mca
+saves/New World (2)/dimensions/stellaris/mars/region/r.2.0.mca
+saves/New World (2)/dimensions/stellaris/mercury/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/stellaris/mercury/data/raids.dat
+saves/New World (2)/dimensions/stellaris/moon/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/stellaris/moon/data/raids.dat
+saves/New World (2)/dimensions/stellaris/venus/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/stellaris/venus/data/raids.dat
+saves/New World (2)/dimensions/the_bumblezone/the_bumblezone/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/the_bumblezone/the_bumblezone/data/raids.dat
+saves/New World (2)/dimensions/twilightforest/twilight_forest/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/twilightforest/twilight_forest/data/raids.dat
+saves/New World (2)/dimensions/undergarden/undergarden/data/neoforge_data_attachments.dat
+saves/New World (2)/dimensions/undergarden/undergarden/data/raids.dat
+saves/New World (2)/entities/r.-1.-1.mca
+saves/New World (2)/entities/r.-1.0.mca
+saves/New World (2)/entities/r.0.-1.mca
+saves/New World (2)/entities/r.0.0.mca
+saves/New World (2)/icon.png
+saves/New World (2)/level.dat
+saves/New World (2)/level.dat_old
+saves/New World (2)/playerdata/048327bc-6a83-429a-9581-d810649dece7.dat
+saves/New World (2)/playerdata/048327bc-6a83-429a-9581-d810649dece7.dat_old
+saves/New World (2)/poi/r.-1.-1.mca
+saves/New World (2)/poi/r.-1.0.mca
+saves/New World (2)/poi/r.0.-1.mca
+saves/New World (2)/poi/r.0.0.mca
+saves/New World (2)/region/r.-1.-1.mca
+saves/New World (2)/region/r.-1.0.mca
+saves/New World (2)/region/r.0.-1.mca
+saves/New World (2)/region/r.0.0.mca
+saves/New World (2)/serverconfig/readme.txt
+saves/New World (2)/session.lock
+saves/New World (2)/stats/048327bc-6a83-429a-9581-d810649dece7.json
+saves/New World/advancements/048327bc-6a83-429a-9581-d810649dece7.json
+saves/New World/data/ae2_compass_0_0.dat
+saves/New World/data/bclib.nbt
+saves/New World/data/chunks.dat
+saves/New World/data/command_storage_aj.dat
+saves/New World/data/command_storage_dynamic_bossbars.dat
+saves/New World/data/command_storage_ic.dat
+saves/New World/data/mfix_strongholds.dat
+saves/New World/data/neoforge_data_attachments.dat
+saves/New World/data/perks.dat
+saves/New World/data/raids.dat
+saves/New World/data/random_sequences.dat
+saves/New World/data/scoreboard.dat
+saves/New World/data/sophisticatedbackpacks.dat
+saves/New World/data/waystones.dat
+saves/New World/data/wover-generator.nbt
+saves/New World/DIM-1/data/neoforge_data_attachments.dat
+saves/New World/DIM-1/data/raids.dat
+saves/New World/DIM1/data/neoforge_data_attachments.dat
+saves/New World/DIM1/data/raids_end.dat
+saves/New World/dimensions/ae2/spatial_storage/data/neoforge_data_attachments.dat
+saves/New World/dimensions/ae2/spatial_storage/data/raids.dat
+saves/New World/dimensions/aether/the_aether/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aether/the_aether/data/raids.dat
+saves/New World/dimensions/aoa3/abyss/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/abyss/data/raids.dat
+saves/New World/dimensions/aoa3/barathos/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/barathos/data/raids.dat
+saves/New World/dimensions/aoa3/celeve/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/celeve/data/raids.dat
+saves/New World/dimensions/aoa3/crystevia/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/crystevia/data/raids.dat
+saves/New World/dimensions/aoa3/deeplands/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/deeplands/data/raids.dat
+saves/New World/dimensions/aoa3/dustopia/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/dustopia/data/raids.dat
+saves/New World/dimensions/aoa3/lborean/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/lborean/data/raids.dat
+saves/New World/dimensions/aoa3/lelyetia/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/lelyetia/data/raids.dat
+saves/New World/dimensions/aoa3/nowhere/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/nowhere/data/raids.dat
+saves/New World/dimensions/aoa3/precasia/data/neoforge_data_attachments.dat
+saves/New World/dimensions/aoa3/precasia/data/raids.dat
+saves/New World/dimensions/astral_dimension/astral_dimension/data/neoforge_data_attachments.dat
+saves/New World/dimensions/astral_dimension/astral_dimension/data/raids.dat
+saves/New World/dimensions/deeperdarker/otherside/data/neoforge_data_attachments.dat
+saves/New World/dimensions/deeperdarker/otherside/data/raids.dat
+saves/New World/dimensions/emerald_dimension/e_dimension/data/mfix_strongholds.dat
+saves/New World/dimensions/emerald_dimension/e_dimension/data/neoforge_data_attachments.dat
+saves/New World/dimensions/emerald_dimension/e_dimension/data/raids.dat
+saves/New World/dimensions/eternal_starlight/starlight/data/neoforge_data_attachments.dat
+saves/New World/dimensions/eternal_starlight/starlight/data/raids.dat
+saves/New World/dimensions/eternal_starlight/starlight/data/weathers.dat
+saves/New World/dimensions/gaiadimension/gaia_dimension/data/neoforge_data_attachments.dat
+saves/New World/dimensions/gaiadimension/gaia_dimension/data/raids.dat
+saves/New World/dimensions/lostcities/lostcity/data/mfix_strongholds.dat
+saves/New World/dimensions/lostcities/lostcity/data/neoforge_data_attachments.dat
+saves/New World/dimensions/lostcities/lostcity/data/raids.dat
+saves/New World/dimensions/minecraft/server_faucet_test_level/entities/r.0.-1.mca
+saves/New World/dimensions/minecraft/server_faucet_test_level/entities/r.0.0.mca
+saves/New World/dimensions/minecraft/server_faucet_test_level/region/r.-1.-1.mca
+saves/New World/dimensions/minecraft/server_faucet_test_level/region/r.-1.0.mca
+saves/New World/dimensions/minecraft/server_faucet_test_level/region/r.0.-1.mca
+saves/New World/dimensions/minecraft/server_faucet_test_level/region/r.0.0.mca
+saves/New World/dimensions/solara_dimension/solarademension/data/mfix_strongholds.dat
+saves/New World/dimensions/solara_dimension/solarademension/data/neoforge_data_attachments.dat
+saves/New World/dimensions/solara_dimension/solarademension/data/raids.dat
+saves/New World/dimensions/starlandsdimension/the_starlands/data/neoforge_data_attachments.dat
+saves/New World/dimensions/starlandsdimension/the_starlands/data/raids.dat
+saves/New World/dimensions/stellaris/mars/data/neoforge_data_attachments.dat
+saves/New World/dimensions/stellaris/mars/data/raids.dat
+saves/New World/dimensions/stellaris/mercury/data/neoforge_data_attachments.dat
+saves/New World/dimensions/stellaris/mercury/data/raids.dat
+saves/New World/dimensions/stellaris/moon/data/neoforge_data_attachments.dat
+saves/New World/dimensions/stellaris/moon/data/raids.dat
+saves/New World/dimensions/stellaris/venus/data/neoforge_data_attachments.dat
+saves/New World/dimensions/stellaris/venus/data/raids.dat
+saves/New World/dimensions/the_bumblezone/the_bumblezone/data/neoforge_data_attachments.dat
+saves/New World/dimensions/the_bumblezone/the_bumblezone/data/raids.dat
+saves/New World/dimensions/twilightforest/twilight_forest/data/neoforge_data_attachments.dat
+saves/New World/dimensions/twilightforest/twilight_forest/data/raids.dat
+saves/New World/dimensions/undergarden/undergarden/data/neoforge_data_attachments.dat
+saves/New World/dimensions/undergarden/undergarden/data/raids.dat
+saves/New World/entities/r.-1.-1.mca
+saves/New World/entities/r.-1.0.mca
+saves/New World/entities/r.0.-1.mca
+saves/New World/entities/r.0.0.mca
+saves/New World/entities/r.1.-1.mca
+saves/New World/entities/r.1.0.mca
+saves/New World/entities/r.2.-1.mca
+saves/New World/entities/r.2.0.mca
+saves/New World/icon.png
+saves/New World/level.dat
+saves/New World/level.dat_old
+saves/New World/playerdata/048327bc-6a83-429a-9581-d810649dece7.dat
+saves/New World/playerdata/048327bc-6a83-429a-9581-d810649dece7.dat_old
+saves/New World/poi/r.-1.-1.mca
+saves/New World/poi/r.-1.0.mca
+saves/New World/poi/r.0.-1.mca
+saves/New World/poi/r.0.0.mca
+saves/New World/poi/r.1.-1.mca
+saves/New World/poi/r.1.0.mca
+saves/New World/poi/r.2.-1.mca
+saves/New World/poi/r.2.0.mca
+saves/New World/region/r.-1.-1.mca
+saves/New World/region/r.-1.0.mca
+saves/New World/region/r.0.-1.mca
+saves/New World/region/r.0.-2.mca
+saves/New World/region/r.0.0.mca
+saves/New World/region/r.1.-1.mca
+saves/New World/region/r.1.-2.mca
+saves/New World/region/r.1.0.mca
+saves/New World/region/r.1.1.mca
+saves/New World/region/r.2.-1.mca
+saves/New World/region/r.2.0.mca
+saves/New World/region/r.2.1.mca
+saves/New World/serverconfig/readme.txt
+saves/New World/session.lock
+saves/New World/stats/048327bc-6a83-429a-9581-d810649dece7.json
+usercache.json
+usernamecache.json
